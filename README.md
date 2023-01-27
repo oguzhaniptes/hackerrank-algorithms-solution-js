@@ -4,6 +4,7 @@
 
 ## Solved algorithms
 - Apple and Orange
+- Number Line Jumps
 - Breaking the Records
 - Time Conversion
 - Subarray Division
