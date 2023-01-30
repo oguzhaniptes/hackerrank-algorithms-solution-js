@@ -8,3 +8,4 @@
 - Breaking the Records
 - Time Conversion
 - Subarray Division
+- Divisible Sum Pairs
